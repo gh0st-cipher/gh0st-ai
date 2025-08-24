@@ -1,5 +1,5 @@
 # gh0st-ai 
-An Artificial Intellegence based Linux Command Executor.
+An Artificial Intelligence based Linux Command Executor.
 
 ## Installation and Setup:
 
