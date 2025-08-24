@@ -9,7 +9,7 @@ An Artificial Intelligence based Linux Command Executor.
 
 ```chmod +x gh0st-ai.py```
 
-## move it to the /usr/local/bin
+## move it to the /usr/local/bin (so you can use the gh0st command all over the system)
 ```mv gh0st-ai.py /usr/local/bin ```
 
 ## USAGE 
