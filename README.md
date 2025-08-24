@@ -13,6 +13,6 @@ An Artificial Intelligence based Linux Command Executor.
 ```mv gh0st-ai.py /usr/local/bin ```
 
 ## USAGE 
-``` gh0st-ai "run an nmap scan on "127.0.0.1  (or) tell it as "my local network" ```
+``` gh0st-ai "run an nmap scan on "127.0.0.1  (or) tell it as "my local network"" ```
 
 Please modify the memory place before using and msg gh0st_cipher in instagram for queries.
